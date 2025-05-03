@@ -1,0 +1,4 @@
+config.properties
+*.key
+/libs/
+*.class
